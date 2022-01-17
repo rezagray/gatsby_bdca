@@ -6,6 +6,8 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6188470797920818"
+     crossorigin="anonymous"></script>
 
 const Footer = class extends React.Component {
   render() {
